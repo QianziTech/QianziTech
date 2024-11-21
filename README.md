@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=500&color=E7F729&width=435&lines=Keep+Studing;Keep+Moving)](https://git.io/typing-svg)
 ## My Ability
 
-![My SVG](svgs/c1.svg)
+![C lang](svgs/c1.svg) ![Mysql](svgs/mysql3.svg) ![python](svgs/python1.svg)
 
 
 ## Current Status
