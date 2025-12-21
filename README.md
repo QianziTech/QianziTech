@@ -18,7 +18,7 @@
 You can find me from these social media:
 - **Douyin**: [Link here](https://v.douyin.com/iDRqvM8A/)
 - **Bilibili**:[Link here](https://space.bilibili.com/317076080)
-- **Email**: [Send email to qianziycgl@foxmail.com](mailto:qianziycgl@foxmail.com)
+- **Email**: [Send email to qianzi018@gmail.com](mailto:qianzi018@gmail.com)
 
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=QianziTech.QianziTech&left_color=green&right_color=red) -->
 <!--Snake animation-->
